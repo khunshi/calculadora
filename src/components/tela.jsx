@@ -27,7 +27,6 @@ export default function Tela(props) {
     color: '#fff',
     paddingTop: 5,
     paddingBottom: 5
-    paddingBottom: 5
   }
   
   return (
